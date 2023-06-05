@@ -1,3 +1,5 @@
+--> original link here : https://github.com/MarjanMeurisse/BY-COVID_WP5_T5.2_baseline-use-case
+
 # BY-COVID - WP5 - Baseline Use Case: SARS-CoV-2 vaccine effectiveness assessment
 
 This repository is making an RO-Crate of the [BY-COVID](https://by-covid.org/) **WP5 T5.2** baseline use case on "*SARS-CoV-2 Vaccine(s) effectiveness in preventing SARS-CoV-2 infection*".
